@@ -25,9 +25,9 @@ In this project, I used Azure Network Watcher Topology to make sure the network 
 <h2>Screenshots of Steps</h2>
 
 <p>
-<img src="h" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DkhzXvb.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Created a virtual machine.
+Created a virtual machine "Client".
 <p>
 </p>
 <br />
