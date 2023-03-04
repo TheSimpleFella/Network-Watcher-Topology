@@ -2,8 +2,6 @@
 Using Network Watcher To Check Connection
 
 # Network Watcher Topology
-
-# Network Watcher Topology
 Using Azure Network Watcher.
 <p align="center">
 <img src="https://i.imgur.com/QXztsRm.png"/>
