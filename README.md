@@ -35,7 +35,25 @@ Created a virtual machine "Client".
 <p>
 <img src="https://i.imgur.com/rKPIHcN.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Created a virtual machine "Domain Controller".
+Created a virtual machine "Mike Domain Controller".
 <p>
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/OfXg053.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Changed Resource Group to approppriate Resource Group. If this isn't changed, the Network Watcher won't function properly.
+<p>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8JeyEwt.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Here is the Topology of the virtual machines network.
+<p>
+</p>
+<br />
+
+Thank you for looking at my work.
