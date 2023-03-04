@@ -32,4 +32,10 @@ Created a virtual machine "Client".
 </p>
 <br />
 
-
+<p>
+<img src="https://i.imgur.com/rKPIHcN.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Created a virtual machine "Domain Controller".
+<p>
+</p>
+<br />
