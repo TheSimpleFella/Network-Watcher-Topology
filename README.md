@@ -9,7 +9,7 @@ Using Azure Network Watcher.
 <img src="https://i.imgur.com/QXztsRm.png"/>
 </p>
 
-<h1>Active Directory Set Up.</h1>
+<h1>Topology.</h1>
 <br />
 
 
@@ -23,13 +23,13 @@ Using Azure Network Watcher.
 - Windows 10</b> (21H2)
 - Windows 11 PC
 
-<h2>Screenshots for my Azure Active Directory project.</h2>
+<h2>Screenshots for my topology project.</h2>
 In this project, I used Azure Network Watcher Topology to make sure the network was connected correctly.
 
 <h2>Screenshots of Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/TKKlyiu.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="h" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Created a virtual machine.
 <p>
